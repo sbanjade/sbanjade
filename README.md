@@ -121,18 +121,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sbanjade&show_icons=true&theme=default&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sbanjade&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbanjade&layout=compact&hide_border=true" width="40%" />
-</p>
-
----
 
 ### 🤝 Let's Connect
 
@@ -149,5 +137,5 @@
 </p>
 
 <p align="center">
-  <i>Open to full-time Software Engineer roles starting June 2026 — Available for H1B sponsorship after OPT</i>
+  <i>Open to full-time Software Engineer roles starting June 2026</i>
 </p>
