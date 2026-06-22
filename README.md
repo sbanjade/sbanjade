@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **CS Honors student at University of North Texas** — GPA: 3.714 | Graduating May 2026
+- 🎓 **CS Honors student at University of North Texas** — GPA: 3.50 | Graduated May 2026
 - 🏆 UNT Transfer Excellence Award | Phi Theta Kappa Honor Society
 - 🔭 Currently building an **AI-powered Alumni Analytics Platform** for the UNT Dean's Office
 - 🤖 Daily user of **Claude Code** and **Cursor** for AI-assisted development
