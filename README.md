@@ -2,9 +2,6 @@
 <h3 align="center">Full-Stack Software Engineer | CS Honors @ University of North Texas | May 2026</h3>
 
 <p align="center">
-  <a href="https://sachinbanjade.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-sachinbanjade.com-blue?style=flat-square&logo=google-chrome" />
-  </a>
   <a href="https://linkedin.com/in/sachin-banjade-345339248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Banjade-blue?style=flat-square&logo=linkedin" />
   </a>
