@@ -5,7 +5,7 @@
   <a href="https://linkedin.com/in/sachin-banjade-345339248" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Sachin%20Banjade-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="mailto:SachinBanjade@my.unt.edu">
+  <a href="mailto:banjadesachin44@gmail.com">
     <img src="https://img.shields.io/badge/Email-SachinBanjade%40my.unt.edu-red?style=flat-square&logo=gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=sbanjade&label=Profile%20views&color=0e75b6&style=flat-square" />
